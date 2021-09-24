@@ -5,6 +5,16 @@
 |           `a2ps-4.14-12`            |             |   `reproduced`   |                 |      |
 |            `acl-2.3.1-1`            |             |   `reproduced`   |                 |      |
 |         `advancecomp-2.1-3`         |             |   `reproduced`   |                 |      |
+|         `aiksaurus-1.2.1-7`         |             |  `unreproduced`  |                 |      |
+|   `archlinux-keyring-20210802-1`    |             |   `reproduced`   |                 |      |
+|         `argon2-20190702-3`         |             |  `unreproduced`  |                 |      |
+|           `attr-2.5.1-1`            |             |   `reproduced`   |                 |      |
+|           `audit-3.0.3-1`           |             |  `unreproduced`  |                 |      |
+|       `python-audit-3.0.3-1`        |             |   `reproduced`   |                 |      |
+|          `autoconf-2.71-1`          |             |   `reproduced`   |                 |      |
+|       `aws-c-common-0.6.9-1`        |             |  `unreproduced`  |                 |      |
+|        `b43-fwcutter-019-3`         |             |   `reproduced`   |                 |      |
+|          `barcode-0.99-5`           |             |  `unreproduced`  |                 |      |
 |             `base-2-2`              |             |   `reproduced`   |                 |      |
 |          `bash-5.1.008-1`           |             |  `unreproduced`  |                 |      |
 |         `binutils-2.36.1-3`         |             |  `unreproduced`  |                 |      |
@@ -34,7 +44,7 @@
 |          `efibootmgr-17-2`          |             |   `reproduced`   |                 |      |
 |            `efivar-37-4`            |             |   `reproduced`   |                 |      |
 |           `eigen-3.4.0-1`           |             |  `unreproduced`  |                 |      |
-|        `debuginfod-0.185-1`         |             |  `unreproduced`  |                 |      |
+|        `debuginfod-0.185-1`         |             |   `reproduced`   |                 |      |
 |         `elfutils-0.185-1`          |             |   `reproduced`   |                 |      |
 |          `libelf-0.185-1`           |             |   `reproduced`   |                 |      |
 |           `expat-2.4.1-1`           |             |   `reproduced`   |                 |      |
@@ -51,7 +61,7 @@
 |            `gnugo-3.8-7`            |             |  `unreproduced`  |                 |      |
 |          `gnupg-2.2.29-1`           |             |   `reproduced`   |                 |      |
 |          `gnutls-3.7.2-2`           |             |   `reproduced`   |                 |      |
-|         `gogglesmm-1.2.2-1`         |             |   `reproduced`   |                 |      |
+|         `gogglesmm-1.2.2-1`         |             |  `unreproduced`  |                 |      |
 |     `gpm-1.20.7.r38.ge82d1a6-3`     |             |   `reproduced`   |                 |      |
 |          `grafana-8.1.3-1`          |             |  `unreproduced`  |                 |      |
 |          `groff-1.22.4-6`           |             |   `reproduced`   |                 |      |
@@ -86,6 +96,7 @@
 |      `libedit-20210714_3.1-1`       |             |   `reproduced`   |                 |      |
 |         `libevent-2.1.12-1`         |             |   `reproduced`   |                 |      |
 |         `libgcrypt-1.9.3-1`         |             |   `reproduced`   |                 |      |
+|          `libgoom2-2k4-5`           |             |   `reproduced`   |                 |      |
 |        `libgpg-error-1.42-1`        |             |   `reproduced`   |                 |      |
 |         `libgssglue-0.4-4`          |             |   `reproduced`   |                 |      |
 |      `libimagequant-2.15.1-1`       |             |   `reproduced`   |                 |      |
@@ -101,13 +112,16 @@
 |        `libnghttp2-1.44.0-1`        |             |   `reproduced`   |                 |      |
 |           `libnl-3.5.0-3`           |             |   `reproduced`   |                 |      |
 |          `libnsl-1.3.0-2`           |             |   `reproduced`   |                 |      |
+|        `libopenraw-0.3.0-1`         |             |  `unreproduced`  |                 |      |
 |         `libpcap-1.10.1-1`          |             |   `reproduced`   |                 |      |
 |        `libpipeline-1.5.3-1`        |             |   `reproduced`   |                 |      |
 |          `libpsl-0.21.1-1`          |             |   `reproduced`   |                 |      |
+|      `libretro-kronos-6598-1`       |             |  `unreproduced`  |                 |      |
+|      `libretro-yabause-3318-1`      |             |  `unreproduced`  |                 |      |
 |         `libsasl-2.1.27-3`          |             |   `reproduced`   |                 |      |
 |         `libtasn1-4.17.0-1`         |             |   `reproduced`   |                 |      |
 |         `libtirpc-1.3.2-1`          |             |   `reproduced`   |                 |      |
-|   `libtool-2.4.6+42+gb88cebd5-16`   |             |   `reproduced`   |                 |      |
+|   `libtool-2.4.6+42+gb88cebd5-16`   |             |  `unreproduced`  |                 |      |
 |       `libunistring-0.9.10-3`       |             |   `reproduced`   |                 |      |
 |         `libunwind-1.5.0-1`         |             |   `reproduced`   |                 |      |
 |          `libusb-1.0.24-2`          |             |   `reproduced`   |                 |      |
@@ -120,10 +134,10 @@
 |            `make-4.3-3`             |             |   `reproduced`   |                 |      |
 |          `man-db-2.9.4-2`           |             |   `reproduced`   |                 |      |
 |         `man-pages-5.12-2`          |             |   `reproduced`   |                 |      |
-|         `mariadb-10.6.3-1`          |             |   `reproduced`   |                 |      |
-|     `mariadb-clients-10.6.3-1`      |             |   `reproduced`   |                 |      |
-|       `mariadb-libs-10.6.3-1`       |             |   `reproduced`   |                 |      |
-|          `mytop-10.6.3-1`           |             |   `reproduced`   |                 |      |
+|         `mariadb-10.6.3-1`          |             |  `unreproduced`  |                 |      |
+|     `mariadb-clients-10.6.3-1`      |             |  `unreproduced`  |                 |      |
+|       `mariadb-libs-10.6.3-1`       |             |  `unreproduced`  |                 |      |
+|          `mytop-10.6.3-1`           |             |  `unreproduced`  |                 |      |
 |    `libva-mesa-driver-21.2.0-1`     |             |   `reproduced`   |                 |      |
 |           `mesa-21.2.0-1`           |             |   `reproduced`   |                 |      |
 |        `mesa-vdpau-21.2.0-1`        |             |   `reproduced`   |                 |      |
@@ -169,3 +183,68 @@
 |         `xfsprogs-5.12.0-1`         |             |   `reproduced`   |                 |      |
 |        `minizip-1:1.2.11-4`         |             |   `reproduced`   |                 |      |
 |          `zlib-1:1.2.11-4`          |             |   `reproduced`   |                 |      |
+|            `./archriscv-pkgs/amdvlk`            |             |                  |                 | No compiled packages found. |
+|         `./archriscv-pkgs/arduino-cli`          |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/automake`           |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/avr-gcc`            |             |                  |                 | No compiled packages found. |
+|            `./archriscv-pkgs/bchunk`            |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/cdrtools`           |             |                  |                 | No compiled packages found. |
+|            `./archriscv-pkgs/c-xsc`             |             |                  |                 | No compiled packages found. |
+|             `./archriscv-pkgs/dbus`             |             |                  |                 | No compiled packages found. |
+|          `./archriscv-pkgs/diffutils`           |             |                  |                 | No compiled packages found. |
+|          `./archriscv-pkgs/fcitx-mozc`          |             |                  |                 | No compiled packages found. |
+|          `./archriscv-pkgs/findutils`           |             |                  |                 | No compiled packages found. |
+|             `./archriscv-pkgs/gawk`             |             |                  |                 | No compiled packages found. |
+|        `./archriscv-pkgs/genxrdpattern`         |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/gettext`            |             |                  |                 | No compiled packages found. |
+|             `./archriscv-pkgs/gfan`             |             |                  |                 | No compiled packages found. |
+|            `./archriscv-pkgs/giada`             |             |                  |                 | No compiled packages found. |
+|            `./archriscv-pkgs/glib2`             |             |                  |                 | No compiled packages found. |
+|            `./archriscv-pkgs/gpgme`             |             |                  |                 | No compiled packages found. |
+|             `./archriscv-pkgs/grep`             |             |                  |                 | No compiled packages found. |
+|             `./archriscv-pkgs/howl`             |             |                  |                 | No compiled packages found. |
+|            `./archriscv-pkgs/hwids`             |             |                  |                 | No compiled packages found. |
+|             `./archriscv-pkgs/i7z`              |             |                  |                 | No compiled packages found. |
+|             `./archriscv-pkgs/icu`              |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/iproute2`           |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/ipvsadm`            |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/iverilog`           |             |                  |                 | No compiled packages found. |
+|          `./archriscv-pkgs/java-rxtx`           |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/jfsutils`           |             |                  |                 | No compiled packages found. |
+|             `./archriscv-pkgs/kdb`              |             |                  |                 | No compiled packages found. |
+|             `./archriscv-pkgs/kmod`             |             |                  |                 | No compiled packages found. |
+|            `./archriscv-pkgs/libaio`            |             |                  |                 | No compiled packages found. |
+|          `./archriscv-pkgs/libantlr3c`          |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/libbs2b`            |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/libcork`            |             |                  |                 | No compiled packages found. |
+|          `./archriscv-pkgs/libetebase`          |             |                  |                 | No compiled packages found. |
+|            `./archriscv-pkgs/libffi`            |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/libidn2`            |             |                  |                 | No compiled packages found. |
+|          `./archriscv-pkgs/liblastfm`           |             |                  |                 | No compiled packages found. |
+|       `./archriscv-pkgs/libretro-desmume`       |             |                  |                 | No compiled packages found. |
+|  `./archriscv-pkgs/libretro-mupen64plus-next`   |             |                  |                 | No compiled packages found. |
+|        `./archriscv-pkgs/libretro-play`         |             |                  |                 | No compiled packages found. |
+|          `./archriscv-pkgs/libseccomp`          |             |                  |                 | No compiled packages found. |
+|          `./archriscv-pkgs/libsecret`           |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/libssh2`            |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/licenses`           |             |                  |                 | No compiled packages found. |
+|            `./archriscv-pkgs/links`             |             |                  |                 | No compiled packages found. |
+|            `./archriscv-pkgs/linux`             |             |                  |                 | No compiled packages found. |
+|              `./archriscv-pkgs/m4`              |             |                  |                 | No compiled packages found. |
+|            `./archriscv-pkgs/meson`             |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/mlocate`            |             |                  |                 | No compiled packages found. |
+|              `./archriscv-pkgs/nx`              |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/openssl`            |             |                  |                 | No compiled packages found. |
+|         `./archriscv-pkgs/pam_wrapper`          |             |                  |                 | No compiled packages found. |
+|             `./archriscv-pkgs/perl`             |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/pkgconf`            |             |                  |                 | No compiled packages found. |
+|             `./archriscv-pkgs/popt`             |             |                  |                 | No compiled packages found. |
+|          `./archriscv-pkgs/postgresql`          |             |                  |                 | No compiled packages found. |
+|          `./archriscv-pkgs/procps-ng`           |             |                  |                 | No compiled packages found. |
+| `./archriscv-pkgs/prometheus-blackbox-exporter` |             |                  |                 | No compiled packages found. |
+|            `./archriscv-pkgs/psmisc`            |             |                  |                 | No compiled packages found. |
+|            `./archriscv-pkgs/python`            |             |                  |                 | No compiled packages found. |
+|         `./archriscv-pkgs/spirv-tools`          |             |                  |                 | No compiled packages found. |
+|         `./archriscv-pkgs/suitesparse`          |             |                  |                 | No compiled packages found. |
+|           `./archriscv-pkgs/systemd`            |             |                  |                 | No compiled packages found. |
+|             `./archriscv-pkgs/xsd`              |             |                  |                 | No compiled packages found. |
